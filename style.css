@@ -1,0 +1,35 @@
+ body{
+      background-color: rgb(113, 183, 192);
+      margin: 10px 100px 50px 50px;
+      padding: 10px 100px 100px 100px;
+     }
+h1 {
+       font-size: 56px;
+       color: green;           
+    }
+h2 {
+        font-size: 36px;           
+    }
+p {
+    color: red;  
+    font-size: 26px; 
+    
+    /* background-color: rgb(26, 179, 230);     */
+  }
+figure {
+    widows: 95px;
+}
+  #NY {
+    color:purple;
+  }
+.center{
+        text-align: center;
+        color: blue;
+        
+      }
+h2{
+  border-style:dotted;
+}
+/* p{
+  margin : 50px,100px,100px,100px;
+} */
